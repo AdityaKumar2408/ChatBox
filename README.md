@@ -16,7 +16,8 @@ To run this Socket Chat application, you need to have the following installed:
 
 * IP address-based connections: The chat application identifies clients based on their IP addresses.
 
-![Screenshot (497)](https://github.com/AdityaKumar2408/ChatBox/assets/110921916/6f97369f-00e7-49dc-af40-c06d9dce9a45)
+
+![Screenshot (498)](https://github.com/AdityaKumar2408/ChatBox/assets/110921916/d9d3d142-a790-4068-a428-34b07a36df04)
 
 
 **How it Works**
